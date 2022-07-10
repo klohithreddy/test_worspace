@@ -1,0 +1,20 @@
+Git :
+git config --global user.name "karthik pakanati"
+git config --global user.email "karthik123zx@gmail.com"
+
+git config --global --list
+user.name=karthik pakanati
+user.email=karthik123zx@gmail.com
+
+
+Install git on Redhat,Centos linux machines
+1 Open terminal
+2 Update the yum repository and install git 
+yum -y install git
+
+
+pwd 
+cd /e/project/test
+ls
+git status
+git init -- it will create hidden .git. create repo 
